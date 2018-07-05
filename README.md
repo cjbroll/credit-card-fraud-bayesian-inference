@@ -1,1 +1,1 @@
-credit_card_fraud_bayesian_inference
+Open and run `Driver_final_project.R`. This file will use methods declared in `Solution_final_project.R` and `DBDA2E-utilities.R`, and will prepare and run an MCMC model in JAGS using the data in the creditcardcsvpresent.csv file. 
